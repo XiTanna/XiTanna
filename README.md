@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the nanoscale heat transport behavior of electrochemical solid-liquid interfaces, with specific emphasis on batteries and supercapacitors.
 - 🌱 I’m currently learning about non-equilibrium molecular dynamics simulations and delving into the application of machine learning for potential fitting.
 - 📫 How to reach me: tannxi99@gmail.com.
-- 😄 Pronouns: The first sight is better than the last.”
+- 😄 Pronouns: “The first sight is better than the last.”
 
 ![](https://github-readme-stats.vercel.app/api?username=XiTanna)
