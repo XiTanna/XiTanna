@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on the nanoscale heat transport behavior of electrochemical solid-liquid interfaces, with specific emphasis on batteries and supercapacitors.
-- 🌱 I’m currently learning about non-equilibrium molecular dynamics simulations and delving into the application of machine learning for potential fitting.
+- 🌱 I’m currently learning non-equilibrium molecular dynamics simulations and applying machine learning potentials to investigate chemical reactions at electrochemical interfaces.
 - 📫 How to reach me: tannxi99@gmail.com.
 - 😄 Pronouns: “The first sight is better than the last.”
 
