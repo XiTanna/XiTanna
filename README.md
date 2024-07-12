@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the nanoscale heat transport behavior of electrochemical solid-liquid interfaces, with specific emphasis on batteries and supercapacitors.
+- 🔭 I’m currently working on the intricacies of atomic-level interfaces and transport phenomena within the electric double layer, with a particular focus on its dynamic processes of formation and relaxation, as well as the resultant heat generation.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the nanoscale heat transport behavior of electrochemical solid-liquid interfaces, with specific emphasis on batteries and supercapacitors.
-- 🌱 I’m currently learning non-equilibrium molecular dynamics simulations and applying machine learning potentials to investigate chemical reactions at electrochemical interfaces.
+- 🔭 I’m currently working on the intricacies of atomic-level interfaces and transport phenomena within the electric double layer, with a particular focus on its dynamic processes of formation and relaxation, as well as the resultant heat generation.
+- 🌱 I’m currently applying constant potential molecular dynamics simulations and learning machine learning potentials to investigate chemical reactions at electrochemical interfaces.
 - 📫 How to reach me: tannxi99@gmail.com.
 - 😄 Pronouns: “The first sight is better than the last.”
 
